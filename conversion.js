@@ -4,5 +4,8 @@ var totalPrice = price1 + price2;
 // console.log(totalPrice);
 var firstName = 'jenni';
 var lastName = 'kim';
-var fullName = firstName + lastName;
+// var fullName = firstName + lastName;
+// for space between name or string
+var fullName = firstName + ' ' + lastName;
+
 console.log(fullName);
